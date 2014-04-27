@@ -15,7 +15,7 @@ namespace UltiCalc
 			// you can specify it here.
 			UIApplication.Main (args, null, "AppDelegate");
 
-			Console.WriteLine ("WORKING?");
+			Console.WriteLine ("shit IS working");
 		}
 	}
 }
